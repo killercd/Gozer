@@ -2,6 +2,8 @@
 
 Gozer is a small Windows privilege escalation helper. It checks common local misconfigurations such as weak service permissions, writable service binaries, writable scheduled task targets, risky token privileges, and unquoted service paths.
 
+![Gozer command-line interface](screen/init.png)
+
 ## Build
 
 Build on Windows with:
