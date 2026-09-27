@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+*.exe
+*.o
+*.obj
+*.lib
+*.a
+
+# Debug / linker artifacts
+*.pdb
+*.ilk
+*.idb
+*.map
+
+# Temporary files
+*.log
+*.tmp
+*.bak
